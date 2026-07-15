@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep046/v1
 canonical_location: https://kanripo.org/bkk/KR3ep046/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 劍慧草堂醫案
   identifiers:
@@ -16,13 +16,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ep046_001.yaml, hash: 'sha256:86af89c5d5c1ea92f0a9f99bb2b4d5dd539923491fd9bda16e88a7ea6040711f'}
-  - {seq: 2, filename: KR3ep046_002.yaml, hash: 'sha256:8f86cc45327b5690eae4194125d4088c768c605b85b1faaf2405101eb347c0aa'}
-  - {seq: 3, filename: KR3ep046_003.yaml, hash: 'sha256:62e95920d8779883858257e9982feb85dd57278ab5662f90cd7a1a9eaea84a87'}
+  - {seq: 1, filename: KR3ep046_001.yaml, hash: 'sha256:32ba138c4853e29177f4d9fcc97afb57335cea35406af70d449747ad0d1cfdd8'}
+  - {seq: 2, filename: KR3ep046_002.yaml, hash: 'sha256:f7f0a6b960f160b9869207513f0918642adee0df177e97b72b3d4119872933f6'}
+  - {seq: 3, filename: KR3ep046_003.yaml, hash: 'sha256:354c357d8bcfa5c4190065afc49f591c885ffe9e305e1735920a1b0fce7f4e42'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ep046_001.markers.yaml, hash: 'sha256:41e5026c756387bec8e79b4595406d97246281db4369681082dd201560c5a117'}
-  - {seq: 2, role: markers, filename: assets/KR3ep046_002.markers.yaml, hash: 'sha256:792c50a8fdac29cd7d6c37bb58aa261f591a3b4ca00b304058466970965023a2'}
-  - {seq: 3, role: markers, filename: assets/KR3ep046_003.markers.yaml, hash: 'sha256:d6fe31fddfa17538491abc76a2cc8745736bae009f247ed493cc6fbed7910368'}
+  - {seq: 1, role: markers, filename: assets/KR3ep046_001.markers.yaml, hash: 'sha256:6ffea57eaadc90ffdfb8ace5fd3c58820591cb7c1907f6ec66ed8bb8299d6bb6'}
+  - {seq: 2, role: markers, filename: assets/KR3ep046_002.markers.yaml, hash: 'sha256:8c140f1c71b21314ed7cb2795509d29b77a2686411544d8e4e984b353913d766'}
+  - {seq: 3, role: markers, filename: assets/KR3ep046_003.markers.yaml, hash: 'sha256:c7d6d5d39567b0655ea6de85b527ac556cb32913154e870c5cff3e5a0b6c3bb5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -724,4 +724,7 @@ table_of_contents:
   label: 女科產後瘀阻
   type: section
   level: 2
-hash: sha256:425b4e069c50a965ac62e77c3ff05301f78b5409630a8766eed5bcd3e5ab7505
+hash: sha256:21cef51f3ffe9d592215b52a72caa434b0b39ec30c6f80541deed5b8655c08c6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
